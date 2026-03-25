@@ -1,0 +1,5 @@
+# Local video source (served from Cloudinary)
+*.mp4
+
+# Screenshots / scratch files
+Screenshot*.png
